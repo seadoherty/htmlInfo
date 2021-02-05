@@ -1,0 +1,16 @@
+body{
+    display:flex;
+    justify-content: center;
+    
+}
+section{
+    width: 600px;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
